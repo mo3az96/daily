@@ -867,6 +867,10 @@ html[dir='rtl'] .mo-mega::after {
   }
 }
 
+.areaSlider .area {
+  display: block;
+}
+
 .productsSlider {
   position: relative;
 }

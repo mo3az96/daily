@@ -5,6 +5,8 @@ $(window).on('load', function () {
     });
 });
 $(document).ready(function () {
+    new WOW().init();
+
     $(".arro-top").click(function () {
         $("html,body").animate({
             scrollTop: 0
