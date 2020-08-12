@@ -2037,7 +2037,7 @@ html[dir='rtl'] .close-menu {
     z-index: 999;
     display: none;
   }
-  nav .close-btn {
+  nav .close-menu {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
