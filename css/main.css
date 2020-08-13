@@ -1020,9 +1020,9 @@ html[dir='rtl'] .product .sale {
 
 @media (max-width: 991px) {
   .cats {
-    gap: 15px;
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
+    gap: 15px;
   }
 }
 
@@ -1036,9 +1036,9 @@ html[dir='rtl'] .product .sale {
 
 @media (max-width: 991px) {
   .cat-col {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
     gap: 15px;
-    -ms-grid-columns: 1fr;
-        grid-template-columns: 1fr;
   }
 }
 
